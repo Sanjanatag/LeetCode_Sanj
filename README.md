@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0560-subarray-sum-equals-k) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0560-subarray-sum-equals-k) |
 ## Union Find
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
