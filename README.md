@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0009-palindrome-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Greedy
