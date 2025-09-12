@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0560-subarray-sum-equals-k) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0560-subarray-sum-equals-k) |
 ## Union Find
@@ -38,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0229-majority-element-ii) |
 ## Prefix Sum
 |  |
@@ -51,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0027-remove-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
