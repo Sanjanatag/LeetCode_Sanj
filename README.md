@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0560-subarray-sum-equals-k) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0229-majority-element-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
