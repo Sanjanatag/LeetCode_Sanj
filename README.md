@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0560-subarray-sum-equals-k) |
+| [0816-design-hashset](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0816-design-hashset) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0560-subarray-sum-equals-k) |
+| [0816-design-hashset](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0816-design-hashset) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
@@ -83,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1894-merge-strings-alternately](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/1894-merge-strings-alternately) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Linked List
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0816-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Sanjanatag/LeetCode_Sanj/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
